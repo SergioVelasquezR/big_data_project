@@ -44,9 +44,9 @@ E -->|Visualización| H[Streamlit Dashboard]
 5.  **Orquestación Robusta:** DAGs de Airflow que gestionan dependencias, reintentos y alertas de fallo.
 
 ## 📊 Visualización
-![Dashboard](/workspaces/big_data_project/assets/dashboard.png)
-![Arquitectura](/workspaces/big_data_project/assets/arquitectura.png)
-![Airflow](/workspaces/big_data_project/assets/airflow.png)
+![Dashboard](/assets/dashboard.png)
+![Arquitectura](/assets/arquitectura.png)
+![Airflow](/assets/airflow.png)
 
 ## 📂 Estructura del Repositorio
 
